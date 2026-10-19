@@ -1,1 +1,1 @@
-Un exercice ts dur
+Un exercice très dur
